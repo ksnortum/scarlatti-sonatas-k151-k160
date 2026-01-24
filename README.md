@@ -1,6 +1,6 @@
 # scarlatti-sonatas-k151-k160
 
-[LilyPond](https://lilypond.org/) engraving source files used to create Scarlatti's sonatas (and a toccata) K151 through K160.
+[LilyPond](https://lilypond.org/) engraving source files used to create Scarlatti's sonatas K151 through K160.
 
 ## Creating the PDF and MIDI files
 
