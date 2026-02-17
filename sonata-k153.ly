@@ -209,6 +209,7 @@ tempi = {
     s2.
   }
   \repeat volta 2 {
+    \set Score.tempoHideNote = ##t
     \tempo 4. = 138
     \time 12/8
     s1.*2 |
